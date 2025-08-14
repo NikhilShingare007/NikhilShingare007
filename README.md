@@ -62,11 +62,11 @@
 
 ---
 
-## 📫 Connect with Me
-- *LinkedIn:* [linkedin.com/in/nikhil-shingare](www.linkedin.com/in/nikhilshingare07)  
-- *Email:* nikhilshingare7@gmail.com  
-- *GitHub:* [github.com/NikhilShingare](https://github.com/NikhilShingare007)  
+### 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilshingare07/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/NikhilShingare007)
+[![Email](https://img.shields.io/badge/-mayurpjadhav11@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhilshingare7@gmail.com)
 ---
 
 ⭐ "The best way to predict the future is to create it."
