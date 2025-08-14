@@ -66,7 +66,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilshingare07/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/NikhilShingare007)
-[![Email](https://img.shields.io/badge/-nikhilshingare7%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikhilshingare7@gmail.com)
+[![Email](https://img.shields.io/badge/-nikhilshingare7%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nikhilshingare7@gmail.com)
 
 ---
 
