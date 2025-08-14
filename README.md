@@ -1,5 +1,8 @@
 # Hi 👋, I'm Nikhil Shingare
 
+<!-- 🔤 Animated Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Graduate;Web+Developer+%7C+Problem+Solver;Java+%7C+JavaScript+%7C+Node.js+%7C+Express.js;Always+learning+%26+building)](https://git.io/typing-svg)
+
 💻 *Computer Science & Engineering Graduate | Web Developer | Problem Solver*  
 🚀 Passionate about building impactful web applications and solving real-world problems with technology.
 
@@ -38,11 +41,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Animated)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilShingare7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShingare7&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilShingare7&theme=radical)
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilShingare007&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShingare007&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilShingare007&theme=radical)
+---
+
+## 📈 Activity Graph (Updates Daily)
+![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikhilShingare&theme=react-dark&hide_border=true)
 
 ---
 
