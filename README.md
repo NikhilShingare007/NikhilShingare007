@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Shingare</h1>
 
-<p align="center"> 
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Graduate;Web+Developer+%7C+Problem+Solver;Java+%7C+JavaScript+%7C+Node.js+%7C+Express.js;Always+learning+%26+building)]          (https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Graduate;Web+Developer+%7C+Problem+Solver;Java+%7C+JavaScript+%7C+Node.js+%7C+Express.js;Always+learning+%26+building" alt="Typing SVG">
+  </a>
 </p>
+
 
 💻 *Computer Science & Engineering Graduate | Web Developer | Problem Solver*  
 🚀 Passionate about building impactful web applications and solving real-world problems with technology.
@@ -42,12 +45,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  ## 📊 GitHub Stats
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilShingare007&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShingare007&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilShingare007&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilShingare007&show_icons=true&theme=tokyonight" alt="Nikhil's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShingare007&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilShingare007&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 ---
 
 ## 📈 Activity Graph
