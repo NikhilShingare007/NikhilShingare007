@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nikhil Shingare
+<h1 align="center"># Hi 👋, I'm Nikhil Shingare
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Graduate;Web+Developer+%7C+Problem+Solver;Java+%7C+JavaScript+%7C+Node.js+%7C+Express.js;Always+learning+%26+building)](https://git.io/typing-svg)
 
