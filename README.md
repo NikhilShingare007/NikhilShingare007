@@ -48,7 +48,7 @@
 ---
 
 ## 📈 Activity Graph
-![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikhilShingare&theme=react-dark&hide_border=true)
+![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikhilShingare007&theme=react-dark&hide_border=true)
 
 ---
 
