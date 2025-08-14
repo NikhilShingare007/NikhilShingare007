@@ -63,9 +63,9 @@
 ---
 
 ## 📫 Connect with Me
-- *LinkedIn:* [linkedin.com/in/nikhil-shingare](https://linkedin.com/in/nikhil-shingare)  
+- *LinkedIn:* [linkedin.com/in/nikhil-shingare]([https://linkedin.com/in/nikhil-shingare](https://www.linkedin.com/in/nikhil-shingare-008200135/))  
 - *Email:* nikhilshingare7@gmail.com  
-- *GitHub:* [github.com/NikhilShingare](https://github.com/NikhilShingare)  
+- *GitHub:* [github.com/NikhilShingare](https://github.com/NikhilShingare007)  
 
 ---
 
