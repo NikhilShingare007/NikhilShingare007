@@ -13,10 +13,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 *B.E. in Computer Science & Engineering* from *D.K.T.E. Society's Textile & Engineering Institute, Ichalkaranji*
+- 🎓 *B.Tech. in Computer Science & Engineering* from *D.K.T.E. Society's Textile & Engineering Institute, Ichalkaranji*
 - 💻 Skilled in *Java, JavaScript, SQL, Node.js, Express.js, MongoDB*
 - 🔬 Experienced in *Data Structures & Algorithms (Java)*
-- 🌱 Currently enhancing skills in *Full-Stack Development* and *Machine Learning*
+- 🌱 Currently enhancing skills in *Full-Stack Development*
 - 🏀 District-level Basketball Player & Space Science Enthusiast
 
 ---
@@ -39,9 +39,9 @@
 
 | Project | Description | Repo |
 |---------|-------------|------|
-| *Healthy Tasty Food* | Health-focused food analysis website where users can search for products, receive health ratings, and get daily nutrition recommendations | [🔗 Repo](https://github.com/yourusername/Healthy-Tasty-Food) |
-| *Tourist Recommendation System* | Suggests tourist spots based on location & reviews; uses ML to improve recommendations from user feedback | [🔗 Repo](https://github.com/yourusername/Tourist-Recommendation-System) |
-| *Emergency Blood Bank Management System* | Web portal for real-time monitoring of blood availability and emergency donor registration | [🔗 Repo](https://github.com/yourusername/Emergency-Blood-Bank-Management-System) |
+| *WanderLust* | WanderLust is a global community-driven platform that connects travelers with unique places to stay and local experiences around the world. From cozy apartments to luxurious villas and even treehouses. | [🔗 Repo](https://github.com/NikhilShingare007/WanderLust) |
+| *The IRCTC Railway Reservation System* | The IRCTC Railway Reservation System is a modern online railway booking platform, inspired by the official IRCTC system. It enables users to search trains, view available seats, make bookings, process payments, and manage reservations in a secure and user-friendly environment. | [🔗 Repo](https://github.com/NikhilShingare007/IRCTC-Railway-Reservation-System) |
+| *Indian Culture* |Indian Culture Website Developed to showcase the richness and diversity of Indian heritage. The website highlights multiple dimensions of Indian culture. | [🔗 Repo](https://github.com/yourusername/Emergency-Blood-Bank-Management-System) |
 
 ---
 
