@@ -52,7 +52,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilShingare007&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=NikhilShingare007&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilShingare007&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
